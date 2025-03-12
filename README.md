@@ -3,5 +3,5 @@ I'm a 14-year-old developer!
 I have experience in:
 • HTML & CSS
 • Python + FastAPI
-| Projects⚙️
+| Projects⚙️:
 URL Shortener | https://url.alybit.dev/
