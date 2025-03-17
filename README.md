@@ -3,6 +3,7 @@ I'm a developer!<br><br>
 About Me | https://alybit.dev/<br><br>
 I have experience in:<br>
 • HTML & CSS<br>
-• Python + FastAPI<br><br>
+• Python<br>
+• FastAPI<br><br>
 Projects⚙️:<br>
 URL Shortener | https://url.alybit.dev/
