@@ -4,6 +4,7 @@ About Me | https://alybit.dev/<br><br>
 I have experience in:<br>
 • HTML & CSS<br>
 • Python<br>
+• discord.py<br>
 • FastAPI<br><br>
 Projects⚙️:<br>
 URL Shortener | https://url.alybit.dev/
