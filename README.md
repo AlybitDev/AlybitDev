@@ -6,6 +6,3 @@ I have experience in:<br>
 • Python<br>
 • discord.py<br>
 • FastAPI<br><br>
-Projects⚙️:<br>
-URL Shortener | https://github.com/AlybitDev/URL-Shortener/ | https://url.alybit.dev/<br>
-AlyBotDiscord | https://github.com/AlybitDev/AlyBotDiscord/
